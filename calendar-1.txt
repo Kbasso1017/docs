@@ -1,0 +1,629 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:hunterschmitt215@gmail.com
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTSTART:20210714T020000Z
+DTEND:20210714T030000Z
+DTSTAMP:20210804T212805Z
+ORGANIZER;CN=hunterschmitt518@gmail.com:mailto:hunterschmitt518@gmail.com
+UID:3m4su6neftac36etq4iq7hbmf0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hu
+ nterschmitt215@gmail.com;X-NUM-GUESTS=0:mailto:hunterschmitt215@gmail.com
+CREATED:20210714T015153Z
+DESCRIPTION:     \nHunter Schmitt has invited you to a RingCentral Video me
+ eting.\n\nPlease join using this link:\n    https://v.ringcentral.com/join/
+ 333210934118\n\nMeeting ID: 333210934118\n\nOne tap to join audio only from
+  a smartphone:\n    +16504191505\,\,333210934118# United States (San Mateo\
+ , CA)\n\nOr dial:\n    +1 (650) 4191505 United States (San Mateo\, CA)\n   
+  Access Code / Meeting ID: 333210934118\n\nInternational numbers available:
+  https://v.ringcentral.com/teleconference\n     
+LAST-MODIFIED:20210727T184333Z
+LOCATION:https://v.ringcentral.com/join/333210934118
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Hunter Schmitt's RingCentral Video meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210714T020000Z
+DTEND:20210714T030000Z
+DTSTAMP:20210804T212805Z
+ORGANIZER;CN=Family:mailto:family15856416086096008601@group.calendar.google
+ .com
+UID:6opm4o9pc8rm2b9m74omcb9k75ijebb26crm2b9g6cpj0oj575gm2p1hc8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hu
+ nterschmitt215@gmail.com;X-NUM-GUESTS=0:mailto:hunterschmitt215@gmail.com
+CREATED:20210720T231304Z
+DESCRIPTION:     \nHunter Schmitt has invited you to a RingCentral Video me
+ eting.\n\nPlease join using this link:\n    https://v.ringcentral.com/join/
+ 333210934118\n\nMeeting ID: 333210934118\n\nOne tap to join audio only from
+  a smartphone:\n    +16504191505\,\,333210934118# United States (San Mateo\
+ , CA)\n\nOr dial:\n    +1 (650) 4191505 United States (San Mateo\, CA)\n   
+  Access Code / Meeting ID: 333210934118\n\nInternational numbers available:
+  https://v.ringcentral.com/teleconference\n     \n\nThis event has a video 
+ call.\nJoin: https://meet.google.com/jge-byzc-nso
+LAST-MODIFIED:20210720T231305Z
+LOCATION:https://v.ringcentral.com/join/333210934118
+SEQUENCE:1
+STATUS:TENTATIVE
+SUMMARY:Hunter Schmitt's RingCentral Video meeting
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210719T140000Z
+DTEND:20210719T150000Z
+DTSTAMP:20210804T212805Z
+ORGANIZER;CN=bassokimberly275@gmail.com:mailto:bassokimberly275@gmail.com
+UID:6phm4p316gqj8b9lcpi3cb9k69h3ebb2c5ijib9l6spjcdr475j62e9i70@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=al
+ ljustforu4;X-NUM-GUESTS=0:mailto:alljustforu4@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hu
+ nterschmitt215@gmail.com;X-NUM-GUESTS=0:mailto:hunterschmitt215@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bassok
+ imberly275@gmail.com;X-NUM-GUESTS=0:mailto:bassokimberly275@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=BA
+ BE;X-NUM-GUESTS=0:mailto:lovinglillian1017@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ki
+ mberly@aol com;X-NUM-GUESTS=0:mailto:kimberly@aol.com
+CREATED:20210720T231229Z
+DESCRIPTION:This event has a video call.\nJoin: https://meet.google.com/dxy
+ -yoin-ffe
+LAST-MODIFIED:20210720T231231Z
+LOCATION:
+SEQUENCE:1
+STATUS:TENTATIVE
+SUMMARY:
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210518T040000Z
+DTEND:20210518T050000Z
+DTSTAMP:20210804T212805Z
+UID:040000008200E00074C5B7101A82E00800000000F5B25A66344CD701000000000000000
+ 01000000089CC3D522169434F964522D1A3D89665
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hu
+ nterschmitt215@gmail.com;X-NUM-GUESTS=0:mailto:hunterschmitt215@gmail.com
+CLASS:PUBLIC
+CREATED:20210518T222317Z
+DESCRIPTION:https://calendar.google.com/calendar/ical/hunterschmitt215%40gm
+ ail.com/private-462b38a81767cd7c0d593ad87b53fba3/basic.ics\n\nSent via the 
+ Samsung Galaxy A01\, an AT&T 4G LTE smartphone\nGet Outlook for Android
+LAST-MODIFIED:20210630T061301Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210520T030000Z
+DTEND:20210520T040000Z
+DTSTAMP:20210804T212805Z
+ORGANIZER;CN=hunterschmitt215@gmail.com:mailto:hunterschmitt215@gmail.com
+UID:040000008200E00074C5B7101A82E00800000000906EE4BA224DD701000000000000000
+ 010000000C6B9C9F6CA7B64439B013803AF5D1FE9
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ tification@facebookmail.com;X-NUM-GUESTS=0:mailto:notification@facebookmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;CN=hunte
+ rschmitt215@gmail.com;X-NUM-GUESTS=0:mailto:hunterschmitt215@gmail.com
+CLASS:PUBLIC
+CREATED:20210520T024920Z
+DESCRIPTION:\n\n\nSent via the Samsung Galaxy A01\, an AT&T 4G LTE smartpho
+ ne\nGet Outlook for Android\n\n
+LAST-MODIFIED:20210629T055407Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Re: Feedback from application
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210518T120000Z
+DTEND:20210518T130000Z
+DTSTAMP:20210804T212805Z
+ORGANIZER;CN=hunterschmitt215@gmail.com:mailto:hunterschmitt215@gmail.com
+UID:040000008200E00074C5B7101A82E0080000000013BDBCB3DC4BD701000000000000000
+ 010000000136795F626354A418B9D8A2E06590709
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=No
+ tification@facebookmail.com;X-NUM-GUESTS=0:mailto:notification@facebookmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hunter
+ schmitt215@gmail.com;X-NUM-GUESTS=0:mailto:hunterschmitt215@gmail.com
+CLASS:PUBLIC
+CREATED:20210518T115533Z
+DESCRIPTION:Get https://calendar.google.com/calendar/ical/hunterschmitt215%
+ 40gmail.com/private-462b38a81767cd7c0d593ad87b53fba3/basic.ics for Android 
+ (<a href="https://aka.ms/AAb9ysg">https://aka.ms/AAb9ysg</a>)\n\nThis event
+  has a video call.\nJoin: https://meet.google.com/rwz-snux-pby\n\nThis even
+ t has a video call.\nJoin: https://meet.google.com/rwz-snux-pby
+LAST-MODIFIED:20210527T235850Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210518T210000Z
+DTEND:20210518T220000Z
+DTSTAMP:20210804T212805Z
+ORGANIZER;CN=hunterschmitt215@gmail.com:mailto:hunterschmitt215@gmail.com
+UID:040000008200E00074C5B7101A82E008000000009C35EB67254CD701000000000000000
+ 010000000F687762733B8124F8826E17EE06914B0
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=No
+ tification@facebookmail.com;X-NUM-GUESTS=0:mailto:notification@facebookmail
+ .com
+CLASS:PUBLIC
+CREATED:20210518T203559Z
+DESCRIPTION:<br><br><br>https://calendar.google.com/calendar/embed?src=hunt
+ erschmitt215%40gmail.com&amp\;ctz=America%2FNew_York<br><br><br><br>jhhh<br
+ ><br><br><br>Error number №1. Code - 58<br><br>Text: You have probably conf
+ igured the sending of SMS messages to your own phone number. This can lead 
+ to an endless SMS message loop. Delete the forwarding rule to 5403619691 fr
+ om your filters or read our instructions:<br><br>StackTrace: 18-05-2021 07:
+ 07:44<br><br>Error send yourself<br><br><br><br>Error number №2. Code - 58<
+ br><br>Text: You have probably configured the sending of SMS messages to yo
+ ur own phone number. This can lead to an endless SMS message loop. Delete t
+ he forwarding rule to 5403619691 from your filters or read our instructions
+ :<br><br>StackTrace: 18-05-2021 09:03:46<br><br>Error send yourself<br><br>
+ <br><br>Error number №3. Code - 58<br><br>Text: You have probably configure
+ d the sending of SMS messages to your own phone number. This can lead to an
+  endless SMS message loop. Delete the forwarding rule to 5403619691 from yo
+ ur filters or read our instructions:<br><br>StackTrace: 18-05-2021 09:44:42
+ <br><br>Error send yourself<br><br><br><br>Error number №4. Code - 58<br><b
+ r>Text: You have probably configured the sending of SMS messages to your ow
+ n phone number. This can lead to an endless SMS message loop. Delete the fo
+ rwarding rule to 5403619691 from your filters or read our instructions:<br>
+ <br>StackTrace: 18-05-2021 12:27:19<br><br>Error send yourself<br><br><br><
+ br>Error number №5. Code - 58<br><br>Text: You have probably configured the
+  sending of SMS messages to your own phone number. This can lead to an endl
+ ess SMS message loop. Delete the forwarding rule to 5403619691 from your fi
+ lters or read our instructions:<br><br>StackTrace: 18-05-2021 01:16:09<br><
+ br>Error send yourself<br><br><br><br>Error number №6. Code - 58<br><br>Tex
+ t: You have probably configured the sending of SMS messages to your own pho
+ ne number. This can lead to an endless SMS message loop. Delete the forward
+ ing rule to 5403619691 from your filters or read our instructions:<br><br>S
+ tackTrace: 18-05-2021 01:16:30<br><br>Error send yourself<br><br><br><br>Er
+ ror number №7. Code - 58<br><br>Text: You have probably configured the send
+ ing of SMS messages to your own phone number. This can lead to an endless S
+ MS message loop. Delete the forwarding rule to 5403619691 from your filters
+  or read our instructions:<br><br>StackTrace: 18-05-2021 03:12:49<br><br>Er
+ ror send yourself<br><br><br><br>Error number №8. Code - 58<br><br>Text: Yo
+ u have probably configured the sending of SMS messages to your own phone nu
+ mber. This can lead to an endless SMS message loop. Delete the forwarding r
+ ule to 5403619691 from your filters or read our instructions:<br><br>StackT
+ race: 18-05-2021 03:13:14<br><br>Error send yourself<br><br><br><br>Additio
+ nal information for developer:<br><br>Android OS - 29<br><br>Application ve
+ rsion - 170<br><br>Model - SM-A015A<br><br>Prefs - {"PREF_SYNC_CONTACTS":tr
+ ue\,"PREF_NOTIFICATION_SERVICE":true\,"PREF_SETTINGS_SEND_SERVER":290\,"PRE
+ F_PREMIUM":false\,"free time":false\,"last time":1614667142\,"Device code":
+ "0730d4590f7adbc52c04b739491c54d7"}<br><br>Battery optimization off - false
+ <br><br>Locale - en_US<br><br>Store - google<br><br><br><br>Permissions:<br
+ ><br>android.permission.READ_CONTACTS = true<br><br>android.permission.RECE
+ IVE_SMS = true<br><br>android.permission.RECEIVE_WAP_PUSH = true<br><br>and
+ roid.permission.SEND_SMS = true<br><br>android.permission.READ_PHONE_STATE 
+ = true<br><br><br><br>Filters: <br><br>FilterModel{id=1\, dualSim=0\, name=
+ 'Filter No.1'\, activeRoaming=true\, active=true\, isSimple=true\, isHistor
+ y=true\, contactModels=[]\, ruleModels=[]\, forwardGoalModels=[ForwardGoalM
+ odel{id=5\, type=0\, filterId=1\, target='5403619691'\, options=[Option{id 
+ =13\, relatedId<br>&nbsp\;=5\, name ='OPTION_DUAL_SIM'\, value ='0'}\, Opti
+ on{id =14\, relatedId =5\, name ='OPTION_SAFE_FOR_CYCLE'\, value ='true'}\,
+  Option{id =15\, relatedId =5\, name ='OPTION_PATTERN_TEXT'\, value =''}]}]
+ \, options=[Option{id =1\, relatedId =1\, name ='OPTION_SCHEDULE'\, value<b
+ r>&nbsp\;='Schedule{daily=TimeInterval{startHour=0\, startMinute=0\, endHou
+ r=23\, endMinute=59}\, monday=TimeInterval{startHour=0\, startMinute=0\, en
+ dHour=23\, endMinute=59}\, tuesday=TimeInterval{startHour=0\, startMinute=0
+ \, endHour=23\, endMinute=59}\, wednesday=TimeInterval{startHour=0\,<br>&nb
+ sp\;startMinute=0\, endHour=23\, endMinute=59}\, thursday=TimeInterval{star
+ tHour=0\, startMinute=0\, endHour=23\, endMinute=59}\, friday=TimeInterval{
+ startHour=0\, startMinute=0\, endHour=23\, endMinute=59}\, saturday=TimeInt
+ erval{startHour=0\, startMinute=0\, endHour=23\,<br>&nbsp\;endMinute=59}\, 
+ sunday=TimeInterval{startHour=0\, startMinute=0\, endHour=23\, endMinute=59
+ }\, activeDaily=false\, activeMonday=true\, activeTuesday=true\, activeWedn
+ esday=true\, activeThursday=true\, activeFriday=true\, activeSaturday=true\
+ , activeSunday=true}'}\, Option{id<br>&nbsp\;=2\, relatedId =1\, name ='OPT
+ ION_SCHEDULE_ACTIVE'\, value ='false'}\, Option{id =3\, relatedId =1\, name
+  ='OPTION_INCOMING'\, value ='true'}\, Option{id =4\, relatedId =1\, name =
+ 'OPTION_OUTGOING'\, value ='false'}\, Option{id =5\, relatedId =1\, name ='
+ OPTION_CONTACT_INCLUDE'\,<br>&nbsp\;value ='true'}\, Option{id =6\, related
+ Id =1\, name ='OPTION_OTP_ACTIVE'\, value ='true'}]}<br><br><br><br><br><br
+ >Sent via the Samsung Galaxy A01\, an AT&amp\;T 4G LTE smartphone<br><br>Ge
+ t <a href="https://aka.ms/AAb9ysg">Outlook for Android</a>
+LAST-MODIFIED:20210527T235759Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Feedback from application
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210514T030000Z
+DTEND:20210514T040000Z
+DTSTAMP:20210804T212805Z
+ORGANIZER;CN=hunterschmitt215@gmail.com:mailto:hunterschmitt215@gmail.com
+UID:040000008200E00074C5B7101A82E00800000000FB8508EF6648D701000000000000000
+ 01000000043409B130BC45046AB15DF4DE520AB09
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=DECLINED;CN=kbasso
+ 4788@gmail.com;X-NUM-GUESTS=0:mailto:kbasso4788@gmail.com
+CREATED:20210514T021457Z
+DESCRIPTION:<html>\n<head>\n<meta http-equiv="Content-Type" content="text/h
+ tml\; charset=utf-8">\n<meta content="text/html\; charset=us-ascii">\n</hea
+ d>\n<body>\n<div style="color:rgb(33\,33\,33)\; background-color:rgb(255\,2
+ 55\,255)"><br>\n</div>\n<div id="ms-outlook-mobile-signature">\n<div><br>\n
+ </div>\nGet <a href="https://aka.ms/AAb9ysg">Outlook for Android</a></div>\
+ n</body>\n</html>\n
+LAST-MODIFIED:20210524T231718Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Did u think I soundboard figure this out
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210510T191000Z
+DTEND:20210510T201000Z
+DTSTAMP:20210804T212805Z
+ORGANIZER;CN=Family:mailto:family15856416086096008601@group.calendar.google
+ .com
+UID:cks36e9hcco6cbb375ij2b9k74o3ib9p6gq68bb165hj8cj66ss3gc326o@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hunter
+ schmitt215@gmail.com;X-NUM-GUESTS=0:mailto:hunterschmitt215@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=DECLINED;CN=kbasso
+ 4788@gmail.com;X-NUM-GUESTS=0:mailto:kbasso4788@gmail.com
+CLASS:PUBLIC
+CREATED:20210510T194443Z
+DESCRIPTION:This event has a video call.\nJoin: https://meet.google.com/kya
+ -dcxc-ihk
+LAST-MODIFIED:20210522T111015Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:P0D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210518T230000Z
+DTEND:20210519T000000Z
+DTSTAMP:20210804T212805Z
+UID:040000008200E00074C5B7101A82E00800000000104B3FAC334CD701000000000000000
+ 010000000747736DBF9789D40B6FF1918F58F1688
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hu
+ nterschmitt215@gmail.com;X-NUM-GUESTS=0:mailto:hunterschmitt215@gmail.com
+CREATED:20210518T221805Z
+DESCRIPTION:<html>\n<head>\n<meta http-equiv="Content-Type" content="text/h
+ tml\; charset=utf-8">\n<meta content="text/html\; charset=us-ascii">\n</hea
+ d>\n<body>\n<div style="color:rgb(33\,33\,33)\; background-color:rgb(255\,2
+ 55\,255)"><br>\n</div>\n<div>\n<div><br>\n</div>\nSent via the Samsung Gala
+ xy A01\, an AT&amp\;T 4G LTE smartphone<br>\nGet <a href="https://aka.ms/AA
+ b9ysg">Outlook for Android</a></div>\n<div class="ms-outlook-mobile-referen
+ ce-message">\n<div style="font-family:sans-serif\; font-size:10.8pt\; color
+ :rgb(0\,0\,0)"><br>\n</div>\n<div><strong>From:</strong> hunterschmitt215@g
+ mail.com &lt\;hunterschmitt215@gmail.com&gt\;<br>\n<strong>Sent:</strong> T
+ uesday\, May 18\, 2021\, 6:16 PM<br>\n<strong>To:</strong> hunterschmitt215
+ @gmail.com<br>\n<strong>Subject:</strong> New SMS message to SIM 1 (Automat
+ ically forward SMS messages to your PC/phone app)<br>\n</div>\n<br>\n<meta 
+ content="text/html\; charset=utf-8">\n<meta content="text/html\; charset=ut
+ f-8">\nIncoming - +13015356631 (Angie (Mobile)) <br>\nMessage text: Did you
+  make it home (5/18/21 6:16 PM)<br>\n</div>\n</body>\n</html>\n
+LAST-MODIFIED:20210522T111013Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Re: New SMS message to SIM 1 (Automatically forward SMS messages to
+  your PC/phone app)
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210514T040000Z
+DTEND:20210514T050000Z
+DTSTAMP:20210804T212805Z
+ORGANIZER;CN=hunterschmitt215@gmail.com:mailto:hunterschmitt215@gmail.com
+UID:040000008200E00074C5B7101A82E00800000000E572B555EF48D701000000000000000
+ 0100000006DA094D39457BC4B939A41D4DF7AB105
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=no
+ reply;X-NUM-GUESTS=0:mailto:noreply@facebookmail.com
+CLASS:PUBLIC
+CREATED:20210514T183122Z
+DESCRIPTION:Get Outlook for Android (<a href="https://aka.ms/AAb9ysg">https
+ ://aka.ms/AAb9ysg</a>)<br><br><br><br>https://calendar.google.com/event?act
+ ion=TEMPLATE&amp\;tmeid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJ
+ jMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc4a3FqZWNpMjZrcWphaGE2NmdzNDhkcGc2NG8zMG
+ MxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNnAyNDJjMXA2aDIzNmU5azZrcms0Z
+ 3BrODhzajZlYTE2Z29rOGQyNDhvcmsyZ2hoNjBxZyBodW50ZXJzY2htaXR0MjE1QG0&amp\;tms
+ rc=hunterschmitt215%40gmail.com<br><br>From: Facebook <u></u><br><br>Sent: 
+ Tuesday\, May 11\, 2021\, 9:32 AM<br><br>To: SOMD Online Yardsale 2<br><br>
+ Subject: Nicole Fink posted something for sale in SOMD Online Yardsale 2<br
+ ><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b
+ r><br><br><br><br><br>See what they're posting.<br><br><br><br><br><br><br>
+ Here are some times that work for me:<br><br><br><br><br><br><br><br>&nbsp\
+ ;<br><br><br><br>&nbsp\;(<a href="https://www.facebook.com/nd/?groups%2F194
+ 7047508928077%2Fpermalink%2F3069711903328293%2F&sale_post_id=30697119033282
+ 93&aref=1620727658424539&medium=email&mid=5c20da2b8c053G5b01789f52baG5c20b1
+ 05ba8dbG96&bcode=2.1620739941.AbxL57IfxHd0l4JSBO0&n_m=hunterschmitt215%40gm
+ ail.com&lloc=header&rms=v2">https://www.facebook.com/nd/?groups%2F194704750
+ 8928077%2Fpermalink%2F3069711903328293%2F&amp\;sale_post_id=306971190332829
+ 3&amp\;aref=1620727658424539&amp\;medium=email&amp\;mid=5c20da2b8c053G5b017
+ 89f52baG5c20b105ba8dbG96&amp\;bcode=2.1620739941.AbxL57IfxHd0l4JSBO0&amp\;n
+ _m=hunterschmitt215%40gmail.com&amp\;lloc=header&amp\;rms=v2</a>)<br><br><b
+ r><br>&nbsp\;<br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp\
+ ;<br><br><br><br><br><br><br><br><br><br><br>&nbsp\;(<a href="https://www.f
+ acebook.com/nd/?nicole.e.fink&aref=1620727658424539&medium=email&mid=5c20da
+ 2b8c053G5b01789f52baG5c20b105ba8dbG96&bcode=2.1620739941.AbxL57IfxHd0l4JSBO
+ 0&n_m=hunterschmitt215%40gmail.com&lloc=author_pic&rms=v2">https://www.face
+ book.com/nd/?nicole.e.fink&amp\;aref=1620727658424539&amp\;medium=email&amp
+ \;mid=5c20da2b8c053G5b01789f52baG5c20b105ba8dbG96&amp\;bcode=2.1620739941.A
+ bxL57IfxHd0l4JSBO0&amp\;n_m=hunterschmitt215%40gmail.com&amp\;lloc=author_p
+ ic&amp\;rms=v2</a>)<br><br><br><br><br><br><br>Nicole<br>Fink (<a href="htt
+ ps://www.facebook.com/nd/?nicole.e.fink&lloc=profile_link&aref=162072765842
+ 4539&medium=email&mid=5c20da2b8c053G5b01789f52baG5c20b105ba8dbG96&bcode=2.1
+ 620739941.AbxL57IfxHd0l4JSBO0&n_m=hunterschmitt215%40gmail.com">https://www
+ .facebook.com/nd/?nicole.e.fink&amp\;lloc=profile_link&amp\;aref=1620727658
+ 424539&amp\;medium=email&amp\;mid=5c20da2b8c053G5b01789f52baG5c20b105ba8dbG
+ 96&amp\;bcode=2.1620739941.AbxL57IfxHd0l4JSBO0&amp\;n_m=hunterschmitt215%40
+ gmail.com</a>) posted in <br>SOMD Online Yardsale 2 (<a href="https://www.f
+ acebook.com/nd/?groups%2F1947047508928077%2F&lloc=profile_link&aref=1620727
+ 658424539&medium=email&mid=5c20da2b8c053G5b01789f52baG5c20b105ba8dbG96&bcod
+ e=2.1620739941.AbxL57IfxHd0l4JSBO0&n_m=hunterschmitt215%40gmail.com">https:
+ //www.facebook.com/nd/?groups%2F1947047508928077%2F&amp\;lloc=profile_link&
+ amp\;aref=1620727658424539&amp\;medium=email&amp\;mid=5c20da2b8c053G5b01789
+ f52baG5c20b105ba8dbG96&amp\;bcode=2.1620739941.AbxL57IfxHd0l4JSBO0&amp\;n_m
+ =hunterschmitt215%40gmail.com</a>)<br><br><br><br>May<br>11 at 9:20 AM (<a 
+ href="https://www.facebook.com/nd/?groups%2F1947047508928077%2Fpermalink%2F
+ 3069711903328293%2F&sale_post_id=3069711903328293&aref=1620727658424539&med
+ ium=email&mid=5c20da2b8c053G5b01789f52baG5c20b105ba8dbG96&bcode=2.162073994
+ 1.AbxL57IfxHd0l4JSBO0&n_m=hunterschmitt215%40gmail.com&lloc=post_timestamp&
+ rms=v2">https://www.facebook.com/nd/?groups%2F1947047508928077%2Fpermalink%
+ 2F3069711903328293%2F&amp\;sale_post_id=3069711903328293&amp\;aref=16207276
+ 58424539&amp\;medium=email&amp\;mid=5c20da2b8c053G5b01789f52baG5c20b105ba8d
+ bG96&amp\;bcode=2.1620739941.AbxL57IfxHd0l4JSBO0&amp\;n_m=hunterschmitt215%
+ 40gmail.com&amp\;lloc=post_timestamp&amp\;rms=v2</a>)<br><br><br><br><br><b
+ r><br><br>&nbsp\;<br><br><br><br><br><br><br><br><br><br><br><br><br><br><b
+ r><br><br><br><br><br><br><br><br><br>&nbsp\;(<a href="https://www.facebook
+ .com/nd/?groups%2F1947047508928077%2Fpermalink%2F3069711903328293%2F&sale_p
+ ost_id=3069711903328293&work_newsfeed_token=S%3A_I1712844413%3A306971190332
+ 8293&aref=1620727658424539&medium=email&mid=5c20da2b8c053G5b01789f52baG5c20
+ b105ba8dbG96&bcode=2.1620739941.AbxL57IfxHd0l4JSBO0&n_m=hunterschmitt215%40
+ gmail.com&lloc=media_attachement&rms=v2">https://www.facebook.com/nd/?group
+ s%2F1947047508928077%2Fpermalink%2F3069711903328293%2F&amp\;sale_post_id=30
+ 69711903328293&amp\;work_newsfeed_token=S%3A_I1712844413%3A3069711903328293
+ &amp\;aref=1620727658424539&amp\;medium=email&amp\;mid=5c20da2b8c053G5b0178
+ 9f52baG5c20b105ba8dbG96&amp\;bcode=2.1620739941.AbxL57IfxHd0l4JSBO0&amp\;n_
+ m=hunterschmitt215%40gmail.com&amp\;lloc=media_attachement&amp\;rms=v2</a>)
+ <br><br><br>&nbsp\;(<a href="https://www.facebook.com/nd/?groups%2F19470475
+ 08928077%2Fpermalink%2F3069711903328293%2F&sale_post_id=3069711903328293&wo
+ rk_newsfeed_token=S%3A_I1712844413%3A3069711903328293&aref=1620727658424539
+ &medium=email&mid=5c20da2b8c053G5b01789f52baG5c20b105ba8dbG96&bcode=2.16207
+ 39941.AbxL57IfxHd0l4JSBO0&n_m=hunterschmitt215%40gmail.com&lloc=media_attac
+ hement&rms=v2">https://www.facebook.com/nd/?groups%2F1947047508928077%2Fper
+ malink%2F3069711903328293%2F&amp\;sale_post_id=3069711903328293&amp\;work_n
+ ewsfeed_token=S%3A_I1712844413%3A3069711903328293&amp\;aref=162072765842453
+ 9&amp\;medium=email&amp\;mid=5c20da2b8c053G5b01789f52baG5c20b105ba8dbG96&am
+ p\;bcode=2.1620739941.AbxL57IfxHd0l4JSBO0&amp\;n_m=hunterschmitt215%40gmail
+ .com&amp\;lloc=media_attachement&amp\;rms=v2</a>)<br><br><br><br><br><br><b
+ r><br><br><br><br><br><br><br>&nbsp\;&nbsp\;See<br><br><br><br><br><br>See<
+ br>1 more (<a href="https://www.facebook.com/nd/?groups%2F1947047508928077%
+ 2Fpermalink%2F3069711903328293%2F&sale_post_id=3069711903328293&work_newsfe
+ ed_token=S%3A_I1712844413%3A3069711903328293&aref=1620727658424539&medium=e
+ mail&mid=5c20da2b8c053G5b01789f52baG5c20b105ba8dbG96&bcode=2.1620739941.Abx
+ L57IfxHd0l4JSBO0&n_m=hunterschmitt215%40gmail.com&rms=v2&lloc=attach_more_m
+ edia_1">https://www.facebook.com/nd/?groups%2F1947047508928077%2Fpermalink%
+ 2F3069711903328293%2F&amp\;sale_post_id=3069711903328293&amp\;work_newsfeed
+ _token=S%3A_I1712844413%3A3069711903328293&amp\;aref=1620727658424539&amp\;
+ medium=email&amp\;mid=5c20da2b8c053G5b01789f52baG5c20b105ba8dbG96&amp\;bcod
+ e=2.1620739941.AbxL57IfxHd0l4JSBO0&amp\;n_m=hunterschmitt215%40gmail.com&am
+ p\;rms=v2&amp\;lloc=attach_more_media_1</a>)<br><br><br><br><br>SeeSe
+LAST-MODIFIED:20210522T110707Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Re: Nicole Fink posted something for sale in SOMD Online Yardsale 2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:hunterschmitt215@gmail.com
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220814
+DTEND;VALUE=DATE:20220815
+DTSTAMP:20210804T212805Z
+UID:69ijicj4ccp66bb36him2b9kc9gj4bb265j6cb9p6li32eb66dj6cdb66k@google.com
+CLASS:PUBLIC
+CREATED:20210507T145536Z
+DESCRIPTION:
+LAST-MODIFIED:20210522T105832Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT15H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210514T043000Z
+DTEND:20210514T053000Z
+DTSTAMP:20210804T212805Z
+UID:3f3h9vk3gs8b0j86cu7qqrevck@google.com
+CLASS:PUBLIC
+CREATED:20210514T044017Z
+DESCRIPTION:Fucl you\n\nThis event has a video call.\nJoin: https://meet.go
+ ogle.com/hmh-bhjc-gur\n\nThis event has a video call.\nJoin: https://meet.g
+ oogle.com/hmh-bhjc-gur
+LAST-MODIFIED:20210522T105801Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fuck you 
+TRANSP:OPAQUE
+ATTACH;FILENAME=WhatsApp Images.zip;FMTTYPE=application/zip:https://drive.g
+ oogle.com/file/d/1jhqT63smHK0mUG5036791ujZqtcNC67b/view?usp=drive_web
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210510
+DTEND;VALUE=DATE:20210511
+DTSTAMP:20210804T212805Z
+ORGANIZER;CN=hunterschmitt215@gmail.com:mailto:hunterschmitt215@gmail.com
+UID:coo68phhcgojeb9iccp32b9k6cqjib9pccsm8b9k74o30dr5c4s3ap9n6s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=hunter
+ schmitt215@gmail.com;X-NUM-GUESTS=0:mailto:hunterschmitt215@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=DECLINED;CN=kbasso
+ 4788@gmail.com;X-NUM-GUESTS=0:mailto:kbasso4788@gmail.com
+CLASS:PUBLIC
+CREATED:20210510T194444Z
+DESCRIPTION:This event has a video call.\nJoin: https://meet.google.com/yym
+ -oscx-ueg\n\nThis event has a video call.\nJoin: https://meet.google.com/yy
+ m-oscx-ueg
+LAST-MODIFIED:20210522T105801Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:
+TRANSP:TRANSPARENT
+ATTACH;FILENAME=WhatsApp.apk;FMTTYPE=application/vnd.android.package-archiv
+ e:https://drive.google.com/file/d/1f1KSrKaZmXGqQHzViUmRF-Sm5K7Vaz2P/view?us
+ p=drivesdk
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT7H0M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210514T030000Z
+DTEND:20210514T040000Z
+DTSTAMP:20210804T212805Z
+ORGANIZER;CN=hunterschmitt215@gmail.com:mailto:hunterschmitt215@gmail.com
+UID:040000008200E00074C5B7101A82E00800000000703CF5926648D701000000000000000
+ 01000000040A164ABED02154086FE8A22F196D7F9
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=OPT-PARTICIPANT;PARTSTAT=DECLINED;CN=kbasso
+ 4788@gmail.com;X-NUM-GUESTS=0:mailto:kbasso4788@gmail.com
+CREATED:20210514T021223Z
+DESCRIPTION:<html>\n<head>\n<meta http-equiv="Content-Type" content="text/h
+ tml\; charset=utf-8">\n<meta content="text/html\; charset=us-ascii">\n</hea
+ d>\n<body>\n<div style="color:rgb(33\,33\,33)\; background-color:rgb(255\,2
+ 55\,255)"><br>\n</div>\n<div>\n<div><br>\n</div>\nGet <a href="https://aka.
+ ms/AAb9ysg">Outlook for Android</a></div>\n</body>\n</html>\n
+LAST-MODIFIED:20210522T105800Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fuck you
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210516T120000Z
+DTEND:20210516T130000Z
+DTSTAMP:20210804T212805Z
+UID:ckqjcob6chgj0b9i75i66b9k75hjab9p68rm6bb164qm8p336di6co9m60@google.com
+CREATED:20210517T134555Z
+DESCRIPTION:
+LAST-MODIFIED:20210517T134556Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Started period
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221212
+DTEND;VALUE=DATE:20221213
+DTSTAMP:20210804T212805Z
+UID:c9i6ap9pc8r62bb5c4sm2b9kcgqmab9oc8o34b9kcgoj6pj1cpj68d1ncg@google.com
+CLASS:PUBLIC
+CREATED:20210511T044037Z
+DESCRIPTION:Happy birthday!
+LAST-MODIFIED:20210514T042356Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Happy birthday!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201212
+DTEND;VALUE=DATE:20201213
+DTSTAMP:20210804T212805Z
+UID:cdim2o9lckoj6bb6cks66b9kc4p6cb9p6sqj6bb16goj4c9kcgp6cp3274@google.com
+CLASS:PUBLIC
+CREATED:20210511T044036Z
+DESCRIPTION:Happy birthday!
+LAST-MODIFIED:20210511T044036Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Happy birthday!
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
